@@ -7,7 +7,7 @@ import android.view.View;
 
 public class LevelDifficultyActivity extends AppCompatActivity {
 
-
+    //Adding a comment to test new branch
     /*
     Methods inside this class are very similar to the main menu due to activity being
     comprised of many buttons. The main difference with this is I have added an int
